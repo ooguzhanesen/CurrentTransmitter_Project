@@ -4,9 +4,9 @@
 - STM32f103C8 mikrodenetleyici 
 - RS485 Portu
 - 7-28 volt güç girişi
-- aşırı votaj koruması
-- ters bağlantı koruması
-- akım limitleyici
+- Aşırı votaj koruması
+- Ters bağlantı koruması
+- Akım limitleyici
 ![semetik](shematic.png)
 
 ## PCB TASARIM
